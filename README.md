@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pavlestepanic93
-- 👀 I’m interested in .NET
-- 🌱 I’m currently trying to improve my skills in .NET
+- 👀 I’m interested in backend mostly, but doing some frontend also
+- 🌱 I’m currently trying to improve my skills and become a better software engineer
