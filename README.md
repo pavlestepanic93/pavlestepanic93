@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @pavlestepanic93
-- 👀 I’m interested in backend mostly, but doing some frontend also
-- 🌱 I’m currently trying to improve my skills and become a better software engineer
+- 👋 Hi, I’m Pavle Stepanic
+- 👀 I’m interested in backend software development mostly, but doing some frontend also
